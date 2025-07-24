@@ -1,4 +1,4 @@
-# top-20-fantasy-cricket-teams
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/686e2964-c198-4320-ba99-ac4db10c3baa" /># top-20-fantasy-cricket-teams
 AI-based cricket fantasy team generator using player performance prediction.
 
 ## 🔧 Features
@@ -27,3 +27,8 @@ AI-based cricket fantasy team generator using player performance prediction.
 - Add UI for inputting match squads
 - Train with live match data
 - Export to Crickedge live cricket score app
+
+## app interface
+![Sample Output](assets/top_team.png)
+![Sample Output](assets/all_player.png)
+![Sample Output](assets/all_player2.png)
