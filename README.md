@@ -29,6 +29,6 @@ this top 20 fantasy teamthat make top 20 dream team which team has top score
 - Export to Crickedge live cricket score app
 
 ## app interface
-![Sample Output](assets/top_team.png)
-![Sample Output](assets/all_player.png)
-![Sample Output](assets/all_player2.png)
+![Sample Output](assets/top_team.jpg)
+![Sample Output](assets/all_player.jpg)
+![Sample Output](assets/all_player2.jpg)
