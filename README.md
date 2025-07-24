@@ -20,7 +20,7 @@ AI-based cricket fantasy team generator using player performance prediction.
 
 ## 📸 Example Output
 
-![Sample Output](assets/top-2 team.png)
+![Sample Output](assets/top-2_team.png)
 ![Sample Output](assets/csv_file.png)
 
 ## 📌 Next Steps
