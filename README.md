@@ -1,5 +1,5 @@
-<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/686e2964-c198-4320-ba99-ac4db10c3baa" /># top-20-fantasy-cricket-teams
-AI-based cricket fantasy team generator using player performance prediction.
+# top-20-fantasy-cricket-teams
+this top 20 fantasy teamthat make top 20 dream team which team has top score 
 
 ## 🔧 Features
 - AI-based prediction for each player
